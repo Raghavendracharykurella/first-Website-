@@ -16,7 +16,7 @@
 <li>Preceded by Position established
 <li>Succeeded by Rajagopala Chidambaram
 <h2>Personal details</h2>
-<img src:"APJ.jpg"/> 
+<img src="APJ.jpg"/> 
    <ul>
 <li>Born Avul Pakir Jainulabdeen Abdul Kalam 15 October 1931
 Rameswaram, Madras Presidency, British India
